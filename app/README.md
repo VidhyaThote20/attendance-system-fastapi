@@ -128,11 +128,3 @@ http://127.0.0.1:8000/docs
 ```
 Use this UI to send test requests without needing Postman.
 
----
-
-## 📎 Assignment Notes
-
-- [x] ✔️ Repository name: `attendance-system-fastapi`
-- [x] ✔️ Code structured and modular
-- [x] ✔️ Clean API docs with examples
-- [x] ✔️ GitHub-hosted with `README.md` and working code
