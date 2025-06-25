@@ -46,7 +46,7 @@ attendance-system-fastapi/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/attendance-system-fastapi.git
+git clone https://github.com/VidhyaThote20/attendance-system-fastapi
 cd attendance-system-fastapi
 ```
 
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 - Create a PostgreSQL database named: `attendance_db`
 - Update your connection URL in `app/database.py`:
 ```python
-DATABASE_URL = "postgresql://postgres:<your-password>@localhost/attendance_db"
+DATABASE_URL = "postgresql://postgres:123@localhost/attendance_db"
 ```
 
 5. **Run the application**
